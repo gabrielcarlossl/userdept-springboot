@@ -1,5 +1,6 @@
 # Studing SpringBoot with Java
-backend user managment project 
+backend user managment project.
+It's just a simple project I made while studying the Spring Boot framework.
 
 ## Functionalities
 - Get all users
