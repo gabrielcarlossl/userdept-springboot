@@ -1,5 +1,5 @@
 # Studing SpringBoot with Java
-backend user managment project.
+Backend user managment project.
 It's just a simple project I made while studying the Spring Boot framework.
 
 ## Functionalities
