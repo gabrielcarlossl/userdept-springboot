@@ -2,6 +2,8 @@
 backend user managment project 
 
 ## Functionalities
-- Get users
-- get user by id
-- insert user
+- Get all users
+- Get user by Id
+- Insert User
+- Delete User by Id
+- Error message on not found Ids
